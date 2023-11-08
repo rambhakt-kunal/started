@@ -1,0 +1,278 @@
+.navbar{
+	position: relative;
+}
+
+.navbar a img{
+	position: absolute;
+	left: 95px;
+	bottom: 20px;
+}
+
+.collapse ul li a{
+	color: black;
+
+} 
+
+
+
+.main1{
+	position: relative;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+.box1img1 img{
+	position: absolute;
+	left: 2px;
+}
+
+.box1img2{
+	position: absolute;
+	left: 500px;
+
+}
+
+.box1img3{
+	position: absolute;
+	top: 2px;
+}
+
+.sliderheading span{
+    color: #C88141;
+}
+
+
+.image img{
+	top: 50px;
+}
+
+.sliderheading {
+	position: absolute;
+	top:160px ;
+	left: 270px;
+}
+
+.sliderheading p{
+    font-size: 14px;
+}
+
+
+}
+
+
+.main2{
+	width: 100%;
+}
+
+.box2 h1 span{
+			color: #C88141;
+		}
+		.main3{
+			width: 100%;
+			height: 400px;
+			padding-top:100px ;
+
+			background-image: linear-gradient(to right ,hsl(25, 97%, 51%),hsl(43, 93%, 53%));
+		}
+
+		.box3{
+			color: white;
+			text-align: center;
+		}
+
+		.box3 h5{
+			line-height: 60px;
+		}
+
+		.main4{
+			text-align: center;
+		}
+		.main4 h1 span{
+			color: #C88141;
+		}
+
+		.box4{
+			border: 2px transparent;
+			margin-bottom: 30px;
+		}
+
+		.box4:hover{
+			border: 2px solid #C88141;
+			padding: ;
+		}
+
+		.main5{
+			width: 100%;
+			height: 700px;
+			background-image: linear-gradient(to right ,hsl(25, 97%, 51%),hsl(43, 93%, 53%));
+            text-align: center;
+            color: white;
+            position: relative;
+            
+             }
+
+             .box5{
+             	position: relative;
+             	}
+
+            .box5 h1{
+            	position: absolute;
+            	left: 116px;
+            	bottom: 212px;
+            }
+
+             .box5 h4 {
+             	line-height: 80px;
+             }
+
+            .border5{  
+               border-top: 2px dashed white;
+               width:100px;
+               position: absolute;
+               top: 80px;
+               left: -65px;
+            }
+
+             .main6 h1 span{
+             	color: #C88141;
+             }
+
+             .main6 .card:hover{
+                 background-image: linear-gradient(to right ,hsl(25, 97%, 51%),hsl(43, 93%, 53%));
+             }
+
+             .carousel-control-prev{
+			left: 10px;
+		     }
+		    .carousel-control-next{
+			right: 10px;
+	     	}
+
+
+	     	.main7{
+	     		style="background-image: linear-gradient(to right ,hsl(25, 97%, 51%),
+	     			hsl(43, 93%, 53%));">
+	     	}
+
+	     	.border8{
+	     		border: 10px solid #C88141;
+	     		width: 900px;
+	     		margin:50px 0px 50px  130px;
+	     		height: 200px;
+	     	}
+
+	     	.main8{
+                position: relative;
+	     	}
+
+	     	.image8 img{
+	     		position: absolute;
+	     		left: 300px;
+	     		top: 234px;
+	     		margin-bottom: 50px;
+	     	}
+
+	     	.text{
+	     		position: absolute;
+	     		right: 310px;
+	     		margin-bottom: 50px;
+	     		
+	     	}
+
+
+	     	.box8 h6 span{
+                 color: #C88141;
+	     	}
+
+	     	.box8 p h6{
+	     		text-align: left;
+	     	}
+
+	     	.box8 img{
+	     		margin: 50px 0px 50px 100px;
+	     	}
+
+	     	.box8{
+	     		margin: 50px 0px 50px 100px;
+	     	}
+
+	     	.main9{
+	     	    width: 100%;
+	     	    position: relative;
+	     		background-image: linear-gradient(to right ,hsl(25, 97%, 51%),hsl(43, 93%, 53%));
+		}
+
+		.card-body{
+			font-size: 12px;
+		}
+
+		.main9card{
+			margin: 00px 0px 80px 100px;
+		}
+
+		.paregraph9 span{
+            color: #C88141;
+		}
+
+		.paregraph9 h5 {
+			position: absolute;
+			left: 330px;
+			top: 231px;
+			line-height: 18px;
+			text-align: center;
+			color: white;
+			width: 45px;
+			height: 65px;
+			border-radius: 35px;
+			padding: 10px 5px 10px 5px;
+			background-image: linear-gradient(to right ,hsl(25, 97%, 51%)
+				,hsl(43, 93%, 53%));
+		}
+
+		.main10 h1{
+			color: #C88141;
+		}
+
+		.main10 img{
+			margin-bottom:80px ;
+			padding-right: 70px;
+		}
+
+		.main11{
+			
+			background-color:#0C090A;
+			width: 100%;
+			padding: 100px 0px 50px 100px;
+			height: 500px;
+		}
+
+		.box11 i{
+			
+			background-image: linear-gradient(to right ,hsl(25, 97%, 51%)
+				,hsl(43, 93%, 53%));
+			padding: 10px 10px 10px 10px ;
+			border-radius:100% ;
+			margin-top: 5px;
+			margin-right: 6px;
+		}
+
+		.button11{
+			padding-left:50px;
+			 width:100%;
+		}
+
+
+
+
+
+		
+
+		
+
+
+
+
+
+              
+
